@@ -11,7 +11,11 @@ In everyday life, I often use Java as the main programming language and still le
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JrSurya10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhimantoro/)
 
-## stats
+## 
+<p>
+    <img src="https://c.tenor.com/VpJg8URLor8AAAAC/nyan-cat.gif" height="150" width="166"/>
+</p>
+
 ![gitStat](https://github-readme-stats.vercel.app/api?username=bhimsur&show_icons=true&theme=dracula)
 
 ## programming skills
