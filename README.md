@@ -4,7 +4,7 @@
 
 hello, bhimsur here, from samarinda east borneo, but currently staying at jogja. i like programming since 2017, which is where my college life requires to able to ngoding, because during my vocational school i was more focused on system administration. 
 
-In everyday life, I often use Java as the main programming language, I like to learn Kotlin, Golang, and Python.
+In everyday life, I often use Java as the main programming language and still learning, I like to learn Kotlin, Golang, and Python.
 
 ## talk to me (if you want)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhimsur)
